@@ -3,7 +3,7 @@
   programs.git = {
     enable = true;
 
-    userEmail = "deskilling@tuta.io";
+    userEmail = "81562562+Deskilling@users.noreply.github.com";
     userName = "Leif Haberecht";
   };
 
