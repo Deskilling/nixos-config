@@ -4,6 +4,8 @@
     librewolf
     zed-editor
     lazygit
+    micro
+    fzf
 
     nil
     nixd
